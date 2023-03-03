@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DogsApp</string>
+    <string name="dog_description">This breed usually lives up to %1$d years with heights around %2$.1f feet</string>
+    <string name="dog_age">Almost %1$d years</string>
+    <string name="action_bar_title">Dogs We Love</string>
+    <string name="error_default_message">An error occurred while searching for dog breeds</string>
+</resources>
